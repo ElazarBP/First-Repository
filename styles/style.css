@@ -3,5 +3,6 @@ h1{
 }
 li{
     font-size: 20px;
-    color: rgb(204, 0, 255);
+    font-style: italic;
+    color: rgba(16, 62, 117, 0.966);
 }
